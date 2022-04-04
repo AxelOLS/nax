@@ -1,2 +1,2 @@
-# nax
+# UNO
 Simplified-Uno
